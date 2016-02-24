@@ -1,0 +1,241 @@
+/** Override Bootstrap*/
+
+
+
+@media(min-width: 1200px){
+	h3{
+		margin-top: 0px;
+	}
+	.services section{
+		text-align: left;
+	}
+}
+.thumbs a{
+	width: 40px;
+	height: 40px;
+}
+body{
+	font-family: Helmet,Freesans,Helvetica,Arial,sans-serif;
+}
+body p.error{
+	color: red;
+}
+
+.thumbs img{
+	width: 40px;
+	height: 40px;
+	margin-top: 10px;
+}
+
+.news_front h4{
+	text-align: left;
+	border-bottom:1px solid;
+	border-color: grey;
+}
+.news_front p{
+	text-align: left;
+}
+.news_front img{
+	width: 200px;
+	height: 120px;
+}
+
+.products .row {
+	
+}
+.products .btn{
+	margin-top: 40px;
+}
+.products img{
+	width: 300px;
+	height: 220px;
+}
+.products h1{
+	margin-top: -1px;
+	
+}
+
+.icon{
+	width: 234px;
+	height: 190px;
+	margin: 0 auto;
+	display: block;
+	margin-bottom: 10px;
+}
+.container #news_front{
+	width: 100%;
+}
+
+.container #products_front{
+	text-align: center;
+	min-width: 270px;
+	max-width: 32%;
+	min-height: 300px;
+	margin-right: 15px;
+	border-radius: 10px;
+	border:1px solid;
+	border-color: grey;
+}
+.container section h3{
+	
+	border-bottom:1px solid;
+	border-color: grey;
+}
+
+
+.services section{
+	text-align: center;
+}
+
+.bgimage{
+	background-image: url('../img/diamond-jewelry-logo-27438430.jpg');
+	background-position: center center;
+	background-size: cover;
+	height: 200px;
+}
+
+.row{
+	width: 100%;
+	margin-top: 10px;
+	position: relative;
+	margin-left: 0%;
+}
+.wrapper {
+	width: 100%;
+	float: left;
+	position: relative;
+	
+
+}
+.container form{
+	margin-right: 1%;
+}
+
+.container #navigation{
+	width: 84.5%;
+	margin-left: 7.8%;
+	
+	border-radius: 5px;
+
+}
+.controls textarea {
+	width: 75%;
+	height: 180px;
+}
+
+.controls input {
+	width: 75%;
+}
+
+
+#header{
+	margin-bottom: 4%;
+	margin-top: 52px;
+	border-bottom: 1px solid;
+	border-color: black;
+}
+
+
+#nav a{
+	border-radius: 10px;
+	
+}
+#dashboard-side{
+	background: #222;
+	height: 100%;
+	width: 150px;
+	margin-bottom: 1%;
+	position: relative;
+	border-radius: 10px;
+
+}
+#dashboard-side li{
+	width: 100%;
+	height: 50px;
+	font-family: "comic sans ms";
+	text-align: center;
+	font-size: 18px;
+	float: left;
+	position: relative;
+
+
+}
+
+.container-fluid{
+	padding: 0;
+}
+
+
+#dashboard-main{
+	background: #f2f2f2;
+	margin-left: 3.4%;
+	min-height: 523px;
+	
+	
+	position: relative;
+	
+	border-radius: 10px;
+	
+}
+
+#dashboard-main h3{
+	text-align: center;
+	margin-top: 2px;
+}
+#dashboard{
+	background: #f2f2f2;
+	
+	min-height: 523px;
+	
+	
+	position: relative;
+	
+	border-radius: 10px;
+
+	
+}
+#header {
+	width: 100%;
+	height: 140px;
+}
+#logo {
+	width: 220px;
+	height: 140px;
+	float: left;
+	position: relative;
+
+}
+
+#logo img {
+	width: 220px;
+	height: 138px;
+}
+
+#cart_summary {
+	margin-top: 36px;
+	float: right;
+	position: relative;
+	width: 360px;
+	height: 70px;
+	text-align: right;
+	line-height: 2.4em;
+
+}
+
+#cart_summary button{
+	background-color: black;
+	color: white;
+
+}
+
+#add_to_cart_box {
+	width: 300px;
+	float: right;
+	position: relative;
+	background-color: silver;
+	left: -36px;
+	padding: 12px;
+	border-radius: 7px;
+	text-align: center;
+}
+
